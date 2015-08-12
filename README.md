@@ -1,6 +1,5 @@
 # RTQR
 A simple real time QR and Bar code recognition using Python. This will connect to your webcam and constantly scan for any QR or bar codes. If one is detected, it'll translate it for you in the output.  
-<br />
 # Dependencies
 Required ZBar, OpenCV, and PIL.
 <br />
